@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/menu_gmaps"
+            android:title="@string/google_maps"
+            android:icon="@drawable/ic_location"
+            app:showAsAction="collapseActionView|always"/>
+
+        <item
+            android:id="@+id/menu_add"
+            android:title="@string/add_story"
+            android:icon="@drawable/ic_add"
+            app:showAsAction="collapseActionView|always"/>
+
+        <item
+            android:id="@+id/menu_language"
+            android:title="@string/language"/>
+
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/logout"/>
+    </group>
+</menu>

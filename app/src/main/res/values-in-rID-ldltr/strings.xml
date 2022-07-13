@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Story App</string>
+    <string name="story_app">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="account_question">Tidak memiliki akun?</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="description">Tulis deskripsi disini</string>
+    <string name="add_story">Menu Tambah Story</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="logout">Keluar</string>
+    <string name="email_wrong">Format email salah</string>
+    <string name="password_wrong">Kata sandi minimal 6 karakter</string>
+    <string name="name_wrong">Nama tidak boleh kosong</string>
+    <string name="register_success">Daftar berhasil silahkan login</string>
+    <string name="register_fail">Gagal mendaftar</string>
+    <string name="login_success">Sukses masuk. Selamat Datang!</string>
+    <string name="login_fail">Gagal untuk masuk</string>
+    <string name="fail_load">Stories gagal diunggah</string>
+    <string name="success_load">Stories sukses diunggah</string>
+    <string name="permission_deny">Izin ditolak</string>
+    <string name="upload_success">Sukses mengunggah</string>
+    <string name="upload_fail">Gagal upload</string>
+    <string name="language">Ganti bahasa</string>
+    <string name="take_picture">Gagal mengambil gambar</string>
+    <string name="camera_fail">Gagal memunculkan kamera</string>
+    <string name="title_maps">Story Maps Activity</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="retry">Coba lagi</string>
+    <string name="location">Lokasi saya</string>
+    <string name="story_upload">\"Story diupload oleh: \"</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="invalid_description">Description must be filled</string>
+    <string name="no_attach_file">No file attached, please attach image first</string>
+</resources>
